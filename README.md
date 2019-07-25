@@ -1,4 +1,4 @@
-# Metis-Project3: What Government is best for economic development ? Classification Of Countries' Economic Growth
+# Metis-Project 3: What Government is best for economic development ? Classification Of Countries' Economic Growth
 ## DOTUN OPASINA
 
 
