@@ -1,5 +1,4 @@
-# Metis-Project3: ARE AUTHORIAN GOVERNMENT GOOD FOR ECONOMIC GROWTH? CLASSIFICATION OF COUNTRIES' ECONOMIC GROWTH
-## REDEFINED PROJECT PROPOSAL, METIS PROJECT #3
+# Metis-Project3: What Government is best for economic development ? Classification Of Countries' Economic Growth
 ## DOTUN OPASINA
 
 
@@ -12,7 +11,7 @@ This question can be used to help current leaders gain insight on what model of 
 
 
 ## METHODOLOGY:
-1. Download Democracy index of countries and their Economic Data from [Gapminder](https://www.gapminder.org/data/documentation/democracy-index/) and [yearly GDP data](https://data.worldbank.org/indicator/ny.gdp.mktp.cd)  <br>
+1. Download Democracy index of countries and their Economic Data from [Gapminder](https://www.gapminder.org/data/documentation/democracy-index/) and [Yearly GDP data](https://data.worldbank.org/indicator/ny.gdp.mktp.cd)  <br>
 2. Clean up data and put them in a postgres database<br>
 3. Connect python code to database 
 4. Build classification and linear regression models of countries democracy index and gdp data <br>
