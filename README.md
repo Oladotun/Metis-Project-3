@@ -25,6 +25,23 @@ This question can be used to help current leaders gain insight on what model of 
 - MVP: Classification of Countries and their economic growth from 2006 - 20018
 - Goal: Prediction of countries and their economic growth from 2006- 2018 using Linear regression.
    
+## FEATURES TO INCLUDE INTO CLASSIFICATION MODEL
+### X
+- Country's name
+- Year
+- Democracy Index
+- Electoral Pluralism Index
+- Government index
+- Political participation index 
+- Political culture index
+- Civil liberties index 
+- Change in democracy index 
+- Yearly GDP %
+
+### Y
+- Type of GOVERNMENT
+
+
 ## FEATURES TO INCLUDE INTO LINEAR REGRESSION MODEL
 ### X
 - Country's name
@@ -37,6 +54,9 @@ This question can be used to help current leaders gain insight on what model of 
 - Civil liberties index 
 - Change in democracy index 
 
+
 ### Y
 - Yearly GDP %
 
+### DATA
+- 2144 rows of data
